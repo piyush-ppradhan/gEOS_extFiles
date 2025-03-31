@@ -1,0 +1,372 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title> 374_09_03_256 - Origin Data - 3D Dataset of Simulations - Project - Digital Rocks</title>
+    <link rel="shortcut icon" type="image/ico" href="/static/images/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/static/vendor/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/static/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/static/upload/css/main.css" rel="stylesheet">
+    
+  </head>
+
+  <body itemscope itemtype="http://schema.org/Organization">
+    
+
+<div class="navbar navbar-static-top navbar-inverse" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+            <a itemprop="url" class="navbar-brand" href="/">
+              <span><img src="/static/images/logo.png" style="height:28px;margin-top:-5px"></span>
+              <span class="hidden-sm">Digital Rocks</span>
+            </a>
+        </div>
+
+        <div class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+                <li >
+                  <a href="/">
+                    <i class="glyphicon glyphicon-home"></i>
+                    <span class="sr-only">Home</span>
+                  </a>
+                </li>
+                <li>
+                    <form method="get" action="/projects/elasticSearchResults/" class="navbar-form pull-right">
+                        <input type="text" id="searchBox" name="q" placeholder="Search">
+                        <input type="submit" class="btn" value="Search" >
+                    </form>
+                </li>
+                    
+                <li class="">
+                  <a href="/projects/">Browse Projects</a>
+                </li>
+                <li class="">
+                  <a href="/usage/">How to Use</a>
+                </li>
+                <li class="">
+                  <a href="/about/">About</a>
+                </li>
+            </ul>
+
+            <ul class="nav navbar-nav navbar-right">
+            
+              <li class=""><a href="/accounts/login/">Log in <i class="glyphicon glyphicon-log-in"></i></a></li>
+              <li class=""><a href="/accounts/signup/">Register <i class="glyphicon glyphicon-user"></i></a></li>
+            
+            </ul>
+
+        </div><!-- /.nav-header -->
+    </div><!-- /.container -->
+</div><!-- /.navbar -->
+
+
+    
+<div class="container">
+  
+</div>
+
+<div class="container">
+  
+<div class="page-title">
+  <h1>3D Dataset of Simulations
+    
+  </h1>
+</div>
+<ul class="nav nav-tabs">
+  <li role="presentation" class="">
+    <a href="/projects/372">Project</a>
+  </li>
+  
+  
+    <li role="presentation" class="">
+      <a href="/projects/372/publications/">Related Publications</a>
+    </li>
+  
+</ul>
+<br>
+<div class="clearfix">
+  
+    <section class="dataset-metadata">
+        <header>
+            <h2>
+                374_09_03_256 <small>Origin Data</small>
+                
+            </h2>
+        </header>
+
+        <p>Sample 374_09_03_256 is a 256^3 synthetic embebbed fracture in a spherepack 
+             with a porosity of 0.1962. This sample percolates.</p>
+
+        <dl>
+            <dt>Segmented</dt>
+            <dd>Yes</dd>
+
+            <dt>Voxel length (x, y, z)</dt>
+            <dd>
+                None, None, None
+                
+                    
+                
+            </dd>
+
+            
+                <dt>Links</dt>
+                <dd><a href="https://www.digitalrocksportal.org/projects/374/origin_data/1804/">See more</a></dd>
+            
+            <dt>Sample</dt>
+            <dd>
+                
+                    <a href="/projects/372/sample/1095/">
+                        View Sample: 374_09_03
+                    </a>
+                
+            </dd>
+
+            
+                <dt>Analysis of this Data</dt>
+                <dd>
+                    <ul>
+                        
+                            <li><a href="/projects/372/analysis_data/720/">Electrical Properties 374_09_03_256</a></li>
+                        
+                            <li><a href="/projects/372/analysis_data/926/">Single Phase 374_09_03_256</a></li>
+                        
+                            <li><a href="/projects/372/analysis_data/1132/">Geometric Properties 374_09_03_256</a></li>
+                        
+                    </ul>
+                </dd>
+            
+        </dl>
+    </section>
+    <hr>
+    <section class="dataset-data">
+        <header>
+            <h3>Data
+                
+            </h3>
+        </header>
+
+        
+
+        <div class="flex-row">
+            
+                
+<div class="flex-col flex-col-4">
+  <div class="dataset-file" data-image-id="311458" style="text-align: center;">
+    
+        <img src="/media/projects/372/origin/2165/images/374_09_03_256.mat.thumb.jpg" async></img>
+    
+
+    <h4 title="374_09_03_256.mat">
+    374_09_03_256.mat
+    <br><small>752.2 KB</small>
+    </h4>
+    
+        
+        <div class="advanced-info">
+          <table class="table">
+            <tbody>
+              <tr>
+                <td> Image Type </td><td>8-bit</td>
+              </tr>
+              <tr>
+                <td>Width </td><td>256</td>
+              </tr>
+              <tr>
+                <td>Height </td><td>256</td>
+              </tr>
+              <tr>
+                <td>Number of Slices </td><td>256</td>
+              </tr>
+              <tr>
+                <td>Byte Order </td><td>little-endian </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        
+    
+
+    <div class="text-right">
+      <div class="btn-group">
+        <button type="button" class="btn btn-sm btn-info dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Action <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu">
+          <li>
+            <a href="/projects/372/images/311458/download/">
+              <i class="glyphicon glyphicon-download"></i> Download File
+            </a>
+          </li>
+
+          
+          <li>
+            <a href="/media/projects/372/origin/2165/images/374_09_03_256.mat.gif">
+              <i class="glyphicon glyphicon-film"></i> View GIF
+            </a>
+          </li>
+          
+
+          
+          <li>
+            <a href="/media/projects/372/origin/2165/images/374_09_03_256.mat.histogram.jpg">
+              <i class="glyphicon glyphicon-stats"></i> Histogram
+            </a>
+          </li>
+          
+
+          
+          <li>
+            <a href="/media/projects/372/origin/2165/images/374_09_03_256.mat.histogram.csv">
+              <i class="glyphicon glyphicon-list-alt"></i> Histogram (CSV)
+            </a>
+          </li>
+          
+
+          
+          <li>
+            <a href="/projects/372/images/311458/downloadMeta/">
+              <i class="glyphicon glyphicon-paperclip"></i> Metadata
+            </a>
+          </li>
+          
+
+          
+
+          
+          <li role="separator" class="divider"></li>
+          <li>
+            <a href="/projects/paraview_info/311458/">
+              <i class="glyphicon glyphicon-sunglasses"></i> View in Paraview
+            </a>
+          </li>
+          
+
+
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+            
+                
+<div class="flex-col flex-col-4">
+  <div class="dataset-file" data-image-id="335283" style="text-align: center;">
+    
+        <img src="/media/projects/372/origin/2165/images/Binary.png.thumb.jpg" async></img>
+    
+
+    <h4 title="Binary.png">
+    Binary.png
+    <br><small>2.4 MB</small>
+    </h4>
+    
+
+    <div class="text-right">
+      <div class="btn-group">
+        <button type="button" class="btn btn-sm btn-info dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Action <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu">
+          <li>
+            <a href="/projects/372/images/335283/download/">
+              <i class="glyphicon glyphicon-download"></i> Download File
+            </a>
+          </li>
+
+          
+
+          
+
+          
+
+          
+          <li>
+            <a href="/projects/372/images/335283/downloadMeta/">
+              <i class="glyphicon glyphicon-paperclip"></i> Metadata
+            </a>
+          </li>
+          
+
+          
+
+          
+
+
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+            
+        </div>
+
+
+        
+    </section>
+
+</div>
+
+</div> <!-- /container -->
+
+
+    
+<footer class="site-footer">
+  <div class="container text-center">
+    <hr>
+    <div class="partners">
+      <div itemprop="parentOrganization" itemscope itemtype="http://schema.org/EducationalOrganization">
+        <a itemprop="url" href="https://www.tacc.utexas.edu" target="_blank">
+          <img itemprop="logo" style="width:160px; padding-bottom: 1em;" src="/static/images/tacc.png"></img>
+        </a>
+      </div>
+      <div itemprop="parentOrganization" itemscope itemtype="http://schema.org/EducationalOrganization">
+        <a itemprop="url" href="https://csee.engr.utexas.edu/" target="_blank">
+          <img itemprop="logo" style="width:160px; padding-bottom: 1em;" src="/static/images/texas-csee.png"></img>
+        </a>
+      </div>
+      <div itemprop="funder" itemscope itemtype="http://schema.org/GovernmentOrganization">
+        <a itemprop="url" href="http://www.nsf.gov/" target="_blank">
+          <img itemprop="logo" style="width:100px" src="/static/images/nsf1.jpg"></img>
+        </a>
+      </div>
+    </div>
+    <meta itemprop="legalName">Digital Rocks Portal</meta>
+    <meta itemprop="url" href="https://www.digitalrocksportal.org" target="_blank">
+    <p>The <strong>Digital Rocks Portal</strong> is funded by a grant from the National Science Foundation <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2324786&amp;HistoricalAwards=false"><span style="font-size:11.0pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">NSF GEO OSE 2324786</span></span></a><br />
+Initial development was funded by <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1255622" target="_blank">NSF EAR CAREER Grant 1255622</a>&nbsp;and&nbsp;<a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1541088" target="_blank">EarthCube Grant 1541008</a>.</p>
+  </div>
+</footer>
+
+
+    <script src="/static/vendor/jquery/dist/jquery.min.js"></script>
+    <script src="/static/vendor/jquery-ui/jquery-ui.min.js"></script>
+    <script src="/static/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script><!--TODO: put this lib in static folder-->
+    
+    
+      <!-- Google tag (gtag.js) -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-LCJXJPJYCR"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-LCJXJPJYCR');
+      </script>
+    
+  </body>
+</html>
